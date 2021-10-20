@@ -11,7 +11,7 @@ This is a normal paragraph:
 here is the readme text.
 [This link](https://www.youtube.com/watch?v=KL2l7nH8Uus&list=RDKL2l7nH8Uus&start_radio=1) has no title attribute.
 
-![Alt text](/VmZxK8hl.jpg)
+![Alt text](./VmZxK8hl.jpg)
 
 you can put your description here.
 
