@@ -2,7 +2,7 @@
 ## test2
 ### test3
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet, **double asterisks**
 
 This is a normal paragraph:
 
