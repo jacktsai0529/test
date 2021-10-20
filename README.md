@@ -7,4 +7,8 @@
 here is the readme text
 you can put your description here.
 
+- Red
+- Green
+- Blue
+
 這裡可以打中文
